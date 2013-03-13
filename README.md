@@ -1,3 +1,3 @@
-# QBRI Pipeline #
+# Project Moved #
 
-The QBRI pipeline is a public project published through UT Southwestern Medical School for automating long-running jobs related to DNA analysis.
+This project is now hosted at https://github.com/QBRC/XBDF-Pipeline.
